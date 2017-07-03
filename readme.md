@@ -1,0 +1,1 @@
+d3 bar chart of US GDP 1947-2015.
